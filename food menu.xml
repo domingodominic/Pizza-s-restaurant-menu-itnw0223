@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item>
+    <name>Four cheese</name>
+    <price>$19.99</price>
+    <description>Classic Italian Four cheese pizza.</description>
+    <image>./images/pizza8.jpg </image>
+  </item>
+  <item>
+    <name>Margherita</name>
+    <price>$17.99</price>
+    <description>Fresh pizza with salmon and cheese.</description>
+    <image>./images/767277.jpg </image>
+  </item>
+  <item>
+    <name>Pepperoni</name>
+    <price>$20.99</price>
+    <description>Classic Filipino Pepperoni cheese pizza.</description>
+    <image> ./images/pizza1.jpg </image>
+  </item>
+    <item>
+    <name>BBQ Chicken</name>
+    <price>$20.99</price>
+    <description>Classic Filipino BBQ chicken pizza.</description>
+    <image> ./images/pizza2.jpg </image>
+  </item>
+      <item>
+    <name>Truffle Pizza</name>
+    <price>$20.99</price>
+    <description>Classic Filipino Truffle Pizza with spicy.</description>
+    <image> ./images/pizza3.jpg </image>
+  </item>
+      <item>
+    <name>Mediterranean</name>
+    <price>$20.99</price>
+    <description>Classic Filino Medterranean Spicy.</description>
+    <image> ./images/pizza4.jpg </image>
+  </item>
+      <item>
+    <name>Four Cheese</name>
+    <price>$20.99</price>
+    <description>Classic Filipino four cheese.</description>
+    <image> ./images/pizza7.jpg </image>
+  </item>
+      <item>
+    <name>Margherita Bufala</name>
+    <price>$20.99</price>
+    <description>Classic Filipino Bufala spicy .</description>
+    <image> ./images/pizza6.jpg </image>
+  </item>
+  
+</menu>
+
+
